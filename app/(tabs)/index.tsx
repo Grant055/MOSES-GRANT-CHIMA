@@ -25,7 +25,7 @@ export default function HomeScreen() {
         <View style={styles.card}>
           <Text style={styles.cardTitle}>⚡ Fast Performance</Text>
           <Text style={styles.cardText}>
-            Optimized layout for smooth mobile experience.
+            Optimized layout for smooth and seamless mobile experience.
           </Text>
         </View>
 
